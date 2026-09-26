@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Plumb for Excel</title>
+  <desc id="desc">Industrial grid banner for the open-source AI underwriting add-in.</desc>
+  <rect width="1280" height="520" fill="#f3f1e9"/>
+  <g stroke="#0f0e12" stroke-width="2" fill="none">
+    <path d="M32 32h1216v456H32z"/><path d="M32 104h1216M820 104v384M1050 104v384"/>
+    <path d="M820 232h428M820 360h428M935 104v384M1165 104v384"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#0f0e12">
+    <text x="56" y="76" font-size="24" font-weight="700" letter-spacing="4">WUSTER / 01</text>
+    <text x="825" y="76" font-size="18" letter-spacing="3">OPEN SOURCE</text>
+    <text x="1120" y="76" font-size="18" letter-spacing="3">MIT / 26</text>
+    <text x="56" y="236" font-size="82" font-weight="700" letter-spacing="-4">PLUMB</text>
+    <text x="56" y="316" font-size="82" font-weight="300" letter-spacing="-4">FOR EXCEL</text>
+    <text x="60" y="384" font-size="22">AI underwriting, inside the workbook.</text>
+    <text x="60" y="428" font-size="16" letter-spacing="2">READ / AUDIT / MODEL / TRACE</text>
+  </g>
+  <rect x="820" y="104" width="115" height="128" fill="#ff5c00"/>
+  <rect x="1050" y="232" width="115" height="128" fill="#c8ff1a"/>
+  <g font-family="Menlo,Consolas,monospace" fill="#0f0e12">
+    <text x="842" y="140" font-size="14">CELL</text><text x="842" y="205" font-size="40" font-weight="700">A1</text>
+    <text x="954" y="140" font-size="14">ASSUMPTION</text><text x="954" y="205" font-size="24">5.25%</text>
+    <text x="1072" y="268" font-size="14">SCENARIO</text><text x="1072" y="333" font-size="30" font-weight="700">+IRR</text>
+    <text x="842" y="396" font-size="14">STATUS</text><text x="842" y="462" font-size="18">TRACEABLE</text>
+    <text x="1072" y="396" font-size="14">MODE</text><text x="1072" y="462" font-size="24">LOCAL</text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+packages:
+  - "packages/*"
+
+allowBuilds:
+  '@microsoft/m365agentstoolkit-cli': false
+  '@mongodb-js/zstd': false
+  esbuild: true
+  keytar: false
+  less: true
+  node-liblzma: false
+  protobufjs: true
+  sharp: true
+  workerd: true
+
+catalog:
+  "@mariozechner/pi-agent-core": "^0.56.2"
+  "@mariozechner/pi-ai": "^0.56.2"
